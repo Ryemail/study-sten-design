@@ -1,5 +1,5 @@
 {
-  "name": "@sten-design/components",
+  "name": "icons",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,9 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@sten-design/icons": "^1.0.0",
-    "@sten-design/themes": "^1.0.0"
-  }
+  "license": "ISC"
 }
